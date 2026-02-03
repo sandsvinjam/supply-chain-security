@@ -231,6 +231,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Support for container image signing
 - [ ] Integration with SBOM (Software Bill of Materials)
 
----
 
-**Made with ❤️ for supply chain security**
